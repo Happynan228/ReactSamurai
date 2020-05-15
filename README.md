@@ -1,4 +1,6 @@
 # ReactSamurai
 ReactAppSamurai
+
 Simple net
-first React lern project 
+
+first React study project 
